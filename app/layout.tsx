@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Kiwilastmile Solutions - iLMS Lead Management System",
   description:
     "Professional B2B SaaS platform for lead management, scoring, and sales pipeline automation. Streamline your lead management with iLMS.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "lead management, lead scoring, sales pipeline automation, ilms, B2B sales tools",
     generator: 'v0.dev'
 }
